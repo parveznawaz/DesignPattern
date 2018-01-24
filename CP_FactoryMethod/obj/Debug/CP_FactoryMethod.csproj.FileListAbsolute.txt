@@ -1,0 +1,5 @@
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_FactoryMethod\bin\Debug\CP_FactoryMethod.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_FactoryMethod\bin\Debug\CP_FactoryMethod.pdb
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_FactoryMethod\obj\Debug\CP_FactoryMethod.csprojResolveAssemblyReference.cache
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_FactoryMethod\obj\Debug\CP_FactoryMethod.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_FactoryMethod\obj\Debug\CP_FactoryMethod.pdb

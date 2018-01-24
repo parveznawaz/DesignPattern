@@ -1,0 +1,5 @@
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Bridge\bin\Debug\SP_Bridge.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Bridge\bin\Debug\SP_Bridge.pdb
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Bridge\obj\Debug\SP_Bridge.csprojResolveAssemblyReference.cache
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Bridge\obj\Debug\SP_Bridge.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Bridge\obj\Debug\SP_Bridge.pdb

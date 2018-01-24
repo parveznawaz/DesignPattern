@@ -1,0 +1,4 @@
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Builder\bin\Debug\CP_Builder.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Builder\bin\Debug\CP_Builder.pdb
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Builder\obj\Debug\CP_Builder.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Builder\obj\Debug\CP_Builder.pdb

@@ -1,0 +1,5 @@
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_AbstractFactory\bin\Debug\CP_AbstractFactory.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_AbstractFactory\bin\Debug\CP_AbstractFactory.pdb
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_AbstractFactory\obj\Debug\CP_AbstractFactory.csprojResolveAssemblyReference.cache
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_AbstractFactory\obj\Debug\CP_AbstractFactory.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_AbstractFactory\obj\Debug\CP_AbstractFactory.pdb

@@ -1,0 +1,5 @@
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Composite\bin\Debug\SP_Composite.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Composite\bin\Debug\SP_Composite.pdb
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Composite\obj\Debug\SP_Composite.csprojResolveAssemblyReference.cache
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Composite\obj\Debug\SP_Composite.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Composite\obj\Debug\SP_Composite.pdb

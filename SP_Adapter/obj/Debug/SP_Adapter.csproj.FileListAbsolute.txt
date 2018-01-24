@@ -1,0 +1,5 @@
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Adapter\bin\Debug\SP_Adapter.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Adapter\bin\Debug\SP_Adapter.pdb
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Adapter\obj\Debug\SP_Adapter.csprojResolveAssemblyReference.cache
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Adapter\obj\Debug\SP_Adapter.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\SP_Adapter\obj\Debug\SP_Adapter.pdb

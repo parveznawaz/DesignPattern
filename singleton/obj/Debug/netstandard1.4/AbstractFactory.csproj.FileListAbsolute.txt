@@ -1,0 +1,7 @@
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\bin\Debug\netstandard1.4\AbstractFactory.deps.json
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\bin\Debug\netstandard1.4\AbstractFactory.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\bin\Debug\netstandard1.4\AbstractFactory.pdb
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\obj\Debug\netstandard1.4\AbstractFactory.csprojResolveAssemblyReference.cache
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\obj\Debug\netstandard1.4\AbstractFactory.AssemblyInfo.cs
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\obj\Debug\netstandard1.4\AbstractFactory.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\singleton\obj\Debug\netstandard1.4\AbstractFactory.pdb

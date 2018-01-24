@@ -1,0 +1,5 @@
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Prototype\bin\Debug\CP_Prototype.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Prototype\bin\Debug\CP_Prototype.pdb
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Prototype\obj\Debug\CP_Prototype.csprojResolveAssemblyReference.cache
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Prototype\obj\Debug\CP_Prototype.dll
+c:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Prototype\obj\Debug\CP_Prototype.pdb

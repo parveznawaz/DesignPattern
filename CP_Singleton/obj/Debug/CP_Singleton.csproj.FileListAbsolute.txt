@@ -1,0 +1,5 @@
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Singleton\bin\Debug\CP_Singleton.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Singleton\bin\Debug\CP_Singleton.pdb
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Singleton\obj\Debug\CP_Singleton.csprojResolveAssemblyReference.cache
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Singleton\obj\Debug\CP_Singleton.dll
+C:\Users\pnawaz\documents\visual studio 2017\Projects\dp\CP_Singleton\obj\Debug\CP_Singleton.pdb
